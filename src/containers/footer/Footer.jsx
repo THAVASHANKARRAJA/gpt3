@@ -35,7 +35,7 @@ function Footer() {
         <h4>Get in touch</h4>
         <p>Thavashankarraja</p>
         <p>+91 9500660829</p>
-        <p>info@payme.net</p>
+        <p>thavashankarj@gmail.com</p>
       </div>
     </div>
 
